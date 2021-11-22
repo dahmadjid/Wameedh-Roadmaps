@@ -18,6 +18,8 @@ Arduino Beginneers Guide
 
 -Quick Graphical User Interfaces using Kivy (Python)
 
+-Artificial Intelligence (Machine Learning, Deep Learning, Reinforcement Learning)
+
 
 
 
