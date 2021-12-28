@@ -1,6 +1,6 @@
 # Python Basics Roadmap
 
-python is one of the most used programming languages in the world. it is great general purpose tool to have. it can be used in very different fields such as computer vision, webscrapers, back-end, servers, desktop apps using kivy and most importantly a must-learn language if you want to work with modern artifical intelligence. 
+Python is one of the most used programming languages in the world. it is great general purpose tool to have. it can be used in very different fields such as computer vision, webscrapers, back-end, servers, desktop apps using kivy and most importantly a must-learn language if you want to work with modern artifical intelligence. 
 
 
 ## How to get started
@@ -16,7 +16,7 @@ make sure to watch at least the first 10 chapters.
 ## Resources
 you can find high quality tutorial on various modules and libraries in python in these channels:
 - [Corey Schafer's Channel](https://www.youtube.com/c/Coreyms/playlists)
-- [Tech With Tim's](https://www.youtube.com/c/TechWithTim/playlists)
+- [Tech With Tim's Channel](https://www.youtube.com/c/TechWithTim/playlists)
 
 besides that, just google it or youtube. good luck!
 #
