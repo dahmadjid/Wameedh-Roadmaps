@@ -18,5 +18,4 @@ you can find high quality tutorial on various modules and libraries in python in
 - [Corey Schafer's Channel](https://www.youtube.com/c/Coreyms/playlists)
 - [Tech With Tim's](https://www.youtube.com/c/TechWithTim/playlists)
 
-besides that, just google it or youtube. good luck
-[![Wameedh](https://scontent.fqfd1-1.fna.fbcdn.net/v/t31.18172-8/14859861_1544535445563971_8645775175819971737_o.png?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFvQd9T0SwEO3d8ec0KRTfdU-9m-ElC-DtT72b4SUL4O-_dfbrMuWCU28XGuJEFWb6k_gDqaz259RuAvW9bNZyz&_nc_ohc=1He74yVM6a8AX95DYXn&_nc_ht=scontent.fqfd1-1.fna&oh=00_AT8OspJIX2zqnfuSVTjbvr1J3HJGA99WpabqMVA0jUl08A&oe=61F07C9E)]
+besides that, just google it or youtube. good luck!
