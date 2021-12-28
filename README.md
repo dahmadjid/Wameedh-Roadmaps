@@ -5,35 +5,35 @@ They can go from only resources and links to detailed explanations and example c
 
 
 # Available Roadmaps
--Arduino Beginneers Guide
--Python Beginneers Guide
+- Arduino Beginneers Guide
+- Python Beginneers Guide
 
 # Upcoming Roadmaps:
 ## Software:
 
 
--Image Processing and Computer Vision using Python,Numpy and OpenCV
+- Image Processing and Computer Vision using Python,Numpy and OpenCV
 
--Wifi Communication using Python Sockets
+- Wifi Communication using Python Sockets
 
--Quick Graphical User Interfaces using Kivy (Python)
+- Quick Graphical User Interfaces using Kivy (Python)
 
--Artificial Intelligence (Machine Learning, Deep Learning, Reinforcement Learning)
+- Artificial Intelligence (Machine Learning, Deep Learning, Reinforcement Learning)
 
 
 
 
 ## Embedded Systems
--Espressif microcontrollers (ESP8266 or ESP32)
+- Espressif microcontrollers (ESP8266 or ESP32)
 
--Wifi Communication using Espressif microcontrollers (ESP8266 or ESP32)
+- Wifi Communication using Espressif microcontrollers (ESP8266 or ESP32)
 
--Steppers Basics using arduino
+- Steppers Basics using arduino
 
--CNC Machining 
+- CNC Machining 
 
 
 
 
 ## FPGAs and Digital Design
--Digital Design using VHDL
+- Digital Design using VHDL
