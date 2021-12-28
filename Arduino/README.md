@@ -19,25 +19,25 @@ Both arduino code and standard software code are instructions. The difference is
 Breadboards are essential to quickly build many circuits without soldering. Here is how breadboard’s holes are connected:
 ![Breadboard](https://i.ibb.co/5jx0c8N/image.png)
 
-- [Blinking a LED](https://www.tutorialspoint.com/arduino/arduino_blinking_led.htm)
+- [Blinking a LED](https://www.tutorialspoint.com/arduino/arduino_blinking_led.htm) : Hello world of Arduino.
 
-- [Potentiometer and Serial](https://www.arduino.cc/en/Tutorial/BuiltInExamples/AnalogReadSerial)
+- [Potentiometer and Serial](https://www.arduino.cc/en/Tutorial/BuiltInExamples/AnalogReadSerial) : Variable Resistor and Serial Communcation.
 
 - [Buzzer](https://create.arduino.cc/projecthub/SURYATEJA/use-a-buzzer-module-piezo-speaker-using-arduino-uno-89df45) : Lets make some noise! 
 
 
-- [Ultrasonics](https://create.arduino.cc/projecthub/abdularbi17/ultrasonic-sensor-hc-sr04-with-arduino-tutorial-327ff6):a sensor that can measure distance between it and an object.  
+- [Ultrasonics](https://create.arduino.cc/projecthub/abdularbi17/ultrasonic-sensor-hc-sr04-with-arduino-tutorial-327ff6): Sensor that can measure distance between it and an object.  
 
 
 - [DHT11](https://create.arduino.cc/projecthub/pibots555/how-to-connect-dht11-sensor-with-arduino-uno-f4d239): Temperature and humidity sensor. 
 
-- [LCD Display](https://create.arduino.cc/projecthub/arduino_uno_guy/i2c-liquid-crystal-displays-5b806c)
+- [LCD Display](https://create.arduino.cc/projecthub/arduino_uno_guy/i2c-liquid-crystal-displays-5b806c) : Display text on a display.
 
 
 - [Servo Motor](https://create.arduino.cc/projecthub/akshayjoseph666/servo-motor-interface-with-arduino-uno-9693ad) : A motor that can accurately rotate from 0 to 180 degrees.
 
 
-- [DC Motor](https://create.arduino.cc/projecthub/electropeak/the-beginner-s-guide-to-control-motors-by-arduino-and-l293d-139307)
+- [DC Motor](https://create.arduino.cc/projecthub/electropeak/the-beginner-s-guide-to-control-motors-by-arduino-and-l293d-139307) : Most commonly found motor.
 
 
 
