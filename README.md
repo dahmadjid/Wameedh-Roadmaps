@@ -5,12 +5,12 @@ They can go from only resources and links to detailed explanations and example c
 
 
 # Available Roadmaps
-Arduino Beginneers Guide
-
+-Arduino Beginneers Guide
+-Python Beginneers Guide
 
 # Upcoming Roadmaps:
 ## Software:
--Python Beginneers Guide
+
 
 -Image Processing and Computer Vision using Python,Numpy and OpenCV
 
