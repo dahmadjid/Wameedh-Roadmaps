@@ -23,7 +23,7 @@ Breadboards are essential to quickly build many circuits without soldering. Here
 
 - [Potentiometer and Serial](https://www.arduino.cc/en/Tutorial/BuiltInExamples/AnalogReadSerial) : Variable Resistor and Serial Communcation.
 
-- [Buzzer](https://create.arduino.cc/projecthub/SURYATEJA/use-a-buzzer-module-piezo-speaker-using-arduino-uno-89df45) : Lets make some noise! 
+- [Buzzer](https://create.arduino.cc/projecthub/akshayjoseph666/interface-buzzer-with-arduino-uno-694059?ref=user&ref_id=600499&offset=3) : Lets make some noise! 
 
 
 - [Ultrasonics](https://create.arduino.cc/projecthub/abdularbi17/ultrasonic-sensor-hc-sr04-with-arduino-tutorial-327ff6): Sensor that can measure distance between it and an object.  
