@@ -15,9 +15,9 @@ Both arduino code and standard software code are instructions. The difference is
 ## The Roadmap:
 - The best way to learn is to google “thing you want to learn” + “arduino”.
 
-#### Breadboards :
+- Breadboards :
 Breadboards are essential to quickly build many circuits and projects without soldering.Here is how breadboard’s holes are connected:
-- ![Breadboard](https://i.ibb.co/5jx0c8N/image.png)
+![Breadboard](https://i.ibb.co/5jx0c8N/image.png)
 
 - [Blinking a LED](https://www.tutorialspoint.com/arduino/arduino_blinking_led.htm)
 
