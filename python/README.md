@@ -21,4 +21,4 @@ you can find high quality tutorial on various modules and libraries in python in
 besides that, just google it or youtube. good luck!
 #
 by Abdelmadjid Dahmani
-[![Wameedh](https://ibb.co/mcN3Qnj)]
+[![Wameedh](https://i.ibb.co/XCYqmnQ/wameedh-logo.png)]
