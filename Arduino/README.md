@@ -15,27 +15,29 @@ Both arduino code and standard software code are instructions. The difference is
 ## The Roadmap:
 - The best way to learn is to google “thing you want to learn” + “arduino”.
 
-#### Breadboards : Breadboards are essential to quickly build many circuits and projects without soldering.Here is how breadboard’s holes are connected:
+#### Breadboards :
+Breadboards are essential to quickly build many circuits and projects without soldering.Here is how breadboard’s holes are connected:
+![Breadboard](https://i.ibb.co/5jx0c8N/image.png)
 
-Blinking a LED: https://www.tutorialspoint.com/arduino/arduino_blinking_led.htm
+[Blinking a LED](https://www.tutorialspoint.com/arduino/arduino_blinking_led.htm)
 
-Potentiometer and Serial : https://www.arduino.cc/en/Tutorial/BuiltInExamples/AnalogReadSerial
+[Potentiometer and Serial](https://www.arduino.cc/en/Tutorial/BuiltInExamples/AnalogReadSerial)
 
-Buzzer : Lets make some noise! 
-https://create.arduino.cc/projecthub/SURYATEJA/use-a-buzzer-module-piezo-speaker-using-arduino-uno-89df45
-
-Ultrasonics: device that can measure distance between it and an object.  
-https://create.arduino.cc/projecthub/abdularbi17/ultrasonic-sensor-hc-sr04-with-arduino-tutorial-327ff6
-
-DHT11: Temperature and humidity sensor. https://create.arduino.cc/projecthub/pibots555/how-to-connect-dht11-sensor-with-arduino-uno-f4d239
-
-LCD Display: https://create.arduino.cc/projecthub/arduino_uno_guy/i2c-liquid-crystal-displays-5b806c
+[Buzzer](https://create.arduino.cc/projecthub/SURYATEJA/use-a-buzzer-module-piezo-speaker-using-arduino-uno-89df45) : Lets make some noise! 
 
 
-Servo Motor : A motor that can accurately rotate from 0 to 180 degrees.
-https://create.arduino.cc/projecthub/akshayjoseph666/servo-motor-interface-with-arduino-uno-9693ad
+[Ultrasonics](https://create.arduino.cc/projecthub/abdularbi17/ultrasonic-sensor-hc-sr04-with-arduino-tutorial-327ff6):a sensor that can measure distance between it and an object.  
 
-DC Motor : https://create.arduino.cc/projecthub/electropeak/the-beginner-s-guide-to-control-motors-by-arduino-and-l293d-139307
+
+[DHT11](https://create.arduino.cc/projecthub/pibots555/how-to-connect-dht11-sensor-with-arduino-uno-f4d239): Temperature and humidity sensor. 
+
+[LCD Display](https://create.arduino.cc/projecthub/arduino_uno_guy/i2c-liquid-crystal-displays-5b806c)
+
+
+[Servo Motor](https://create.arduino.cc/projecthub/akshayjoseph666/servo-motor-interface-with-arduino-uno-9693ad) : A motor that can accurately rotate from 0 to 180 degrees.
+
+
+[DC Motor](https://create.arduino.cc/projecthub/electropeak/the-beginner-s-guide-to-control-motors-by-arduino-and-l293d-139307)
 
 
 
@@ -54,8 +56,8 @@ Fires can go undetected and cause many harms. We can solve this by detecting hig
 
 ## Conclusion:
 
-You have now learned most of the Arduino basics. If you want to learn more, you need to have a solid foundation is C programming language. It is recommended to watch this C programming playlist from thenewboston on youtube: 
+You have now learned most of the Arduino basics. If you want to learn more, you need to have a solid foundation is C programming language. It is recommended to watch this C programming playlist from [thenewboston](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq) on youtube: 
 
-https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq
 
 Good luck!
+by Abdelmadjid Dahmani
