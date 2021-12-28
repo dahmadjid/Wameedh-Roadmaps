@@ -17,27 +17,27 @@ Both arduino code and standard software code are instructions. The difference is
 
 #### Breadboards :
 Breadboards are essential to quickly build many circuits and projects without soldering.Here is how breadboard’s holes are connected:
-![Breadboard](https://i.ibb.co/5jx0c8N/image.png)
+- ![Breadboard](https://i.ibb.co/5jx0c8N/image.png)
 
-[Blinking a LED](https://www.tutorialspoint.com/arduino/arduino_blinking_led.htm)
+- [Blinking a LED](https://www.tutorialspoint.com/arduino/arduino_blinking_led.htm)
 
-[Potentiometer and Serial](https://www.arduino.cc/en/Tutorial/BuiltInExamples/AnalogReadSerial)
+- [Potentiometer and Serial](https://www.arduino.cc/en/Tutorial/BuiltInExamples/AnalogReadSerial)
 
-[Buzzer](https://create.arduino.cc/projecthub/SURYATEJA/use-a-buzzer-module-piezo-speaker-using-arduino-uno-89df45) : Lets make some noise! 
-
-
-[Ultrasonics](https://create.arduino.cc/projecthub/abdularbi17/ultrasonic-sensor-hc-sr04-with-arduino-tutorial-327ff6):a sensor that can measure distance between it and an object.  
+- [Buzzer](https://create.arduino.cc/projecthub/SURYATEJA/use-a-buzzer-module-piezo-speaker-using-arduino-uno-89df45) : Lets make some noise! 
 
 
-[DHT11](https://create.arduino.cc/projecthub/pibots555/how-to-connect-dht11-sensor-with-arduino-uno-f4d239): Temperature and humidity sensor. 
-
-[LCD Display](https://create.arduino.cc/projecthub/arduino_uno_guy/i2c-liquid-crystal-displays-5b806c)
+- [Ultrasonics](https://create.arduino.cc/projecthub/abdularbi17/ultrasonic-sensor-hc-sr04-with-arduino-tutorial-327ff6):a sensor that can measure distance between it and an object.  
 
 
-[Servo Motor](https://create.arduino.cc/projecthub/akshayjoseph666/servo-motor-interface-with-arduino-uno-9693ad) : A motor that can accurately rotate from 0 to 180 degrees.
+- [DHT11](https://create.arduino.cc/projecthub/pibots555/how-to-connect-dht11-sensor-with-arduino-uno-f4d239): Temperature and humidity sensor. 
+
+- [LCD Display](https://create.arduino.cc/projecthub/arduino_uno_guy/i2c-liquid-crystal-displays-5b806c)
 
 
-[DC Motor](https://create.arduino.cc/projecthub/electropeak/the-beginner-s-guide-to-control-motors-by-arduino-and-l293d-139307)
+- [Servo Motor](https://create.arduino.cc/projecthub/akshayjoseph666/servo-motor-interface-with-arduino-uno-9693ad) : A motor that can accurately rotate from 0 to 180 degrees.
+
+
+- [DC Motor](https://create.arduino.cc/projecthub/electropeak/the-beginner-s-guide-to-control-motors-by-arduino-and-l293d-139307)
 
 
 
