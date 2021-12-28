@@ -19,6 +19,3 @@ you can find high quality tutorial on various modules and libraries in python in
 - [Tech With Tim's](https://www.youtube.com/c/TechWithTim/playlists)
 
 besides that, just google it or youtube. good luck!
-##
-##
-by madjid
