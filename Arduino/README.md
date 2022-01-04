@@ -1,3 +1,4 @@
+![Wameedh](https://i.ibb.co/wyKRMdC/Wameedh.png)
 # Beginners guide to Arduino
 
 In this guide you will find all the knowledge and resources and links needed to get started with Arduino and making your own cool projects!
