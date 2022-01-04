@@ -6,7 +6,7 @@ They can go from only resources and links to detailed explanations and example c
 
 
 # Available Roadmaps
-- [Arduino Beginneers Guide](https://github.com/dahmadjid/Wameedh-Roadmaps/tree/main/arduino)
+- [Arduino Beginneers Guide](https://github.com/dahmadjid/Wameedh-Roadmaps/tree/main/Arduino)
 - [Python Beginneers Guide](https://github.com/dahmadjid/Wameedh-Roadmaps/tree/main/python)
 
 # Upcoming Roadmaps:
