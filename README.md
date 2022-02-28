@@ -8,6 +8,7 @@ They can go from only resources and links to detailed explanations and example c
 # Available Roadmaps
 - [Arduino Beginneers Guide](https://github.com/dahmadjid/Wameedh-Roadmaps/tree/main/Arduino)
 - [Python Beginneers Guide](https://github.com/dahmadjid/Wameedh-Roadmaps/tree/main/python)
+- [Artificial Intelligence & Deep Neural Networks](https://github.com/mounirouadi/Deep-learning-for-computer-vision-workshop-V2.0)
 
 # Upcoming Roadmaps:
 ## Software:
