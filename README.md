@@ -1,6 +1,6 @@
 ![Wameedh](https://i.ibb.co/wyKRMdC/Wameedh.png)
 # Roadmaps
-Roadmaps of variety of technical fields
+Roadmaps for a variety of technical fields made by Wameedh SC members.
 
 They can go from only resources and links to detailed explanations and example codes.
 
