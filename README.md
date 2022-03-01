@@ -21,9 +21,6 @@ They can go from only resources and links to detailed explanations and example c
 
 - Quick Graphical User Interfaces using Kivy (Python)
 
-- Artificial Intelligence (Machine Learning, Deep Learning, Reinforcement Learning)
-
-
 
 
 ## Embedded Systems
