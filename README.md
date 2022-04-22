@@ -11,6 +11,7 @@ They can go from only resources and links to detailed explanations and example c
 - [Artificial Intelligence & Deep Neural Networks](https://github.com/mounirouadi/Deep-learning-for-computer-vision-workshop-V2.0)
 - [Beginners’ Guide Into Electrical Engineering For Arduino](https://github.com/dahmadjid/Wameedh-Roadmaps/tree/main/Electrical%20Engineering)
 - [Internet of Things using ESP32 (ESP-IDF)](https://github.com/dahmadjid/Wameedh-Roadmaps/tree/main/IoT)
+- [Embedded systems & Beyond Arduino roadmap](https://github.com/zakimadaoui/embedded_roadmap)
 
 # Upcoming Roadmaps:
 ## Software:
