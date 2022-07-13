@@ -26,9 +26,6 @@ They can go from only resources and links to detailed explanations and example c
 
 
 ## Embedded Systems
-- Espressif microcontrollers (ESP8266 or ESP32)
-
-- Wifi Communication using Espressif microcontrollers (ESP8266 or ESP32)
 
 - Steppers Basics using arduino
 
