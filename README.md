@@ -9,6 +9,8 @@ They can go from only resources and links to detailed explanations and example c
 - [Arduino Beginneers Guide](https://github.com/dahmadjid/Wameedh-Roadmaps/tree/main/Arduino)
 - [Beginners’ Guide Into Electrical Engineering For Arduino](https://github.com/dahmadjid/Wameedh-Roadmaps/tree/main/Electrical%20Engineering)
 - [Python Beginneers Guide](https://github.com/dahmadjid/Wameedh-Roadmaps/tree/main/python)
+
+ [The C Programming Language](https://github.com/dahmadjid/Wameedh-Roadmaps/tree/main/C)
 - [Artificial Intelligence & Deep Neural Networks](https://github.com/mounirouadi/Deep-learning-for-computer-vision-workshop-V2.0)
 - [Internet of Things using ESP32 (ESP-IDF)](https://github.com/dahmadjid/Wameedh-Roadmaps/tree/main/IoT)
 - [Embedded systems & Beyond Arduino roadmap](https://github.com/zakimadaoui/embedded_roadmap)
